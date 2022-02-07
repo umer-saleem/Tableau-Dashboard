@@ -9,7 +9,6 @@ https://user-images.githubusercontent.com/55572784/152647150-6b2d3a2a-1601-439c-
 
 ## Performance Evaluation Metrics
 
-Following are 
 #### 1. Monthly Parcels:
 The number represent the monthly amount of processed packages and the monthly percentage change in their amount.
 
