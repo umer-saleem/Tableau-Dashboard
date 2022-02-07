@@ -1,7 +1,7 @@
 # Tableau-Dashboard
 
 ## Problem Statement
-The aim of creating a data-driven dashbaord is to visualize and interpret the performance of parcel-tracking solution through a number of metrics.
+The aim of creating a data-driven dashbaord is to visualize and interpret significant insights regarding the stability and performance of an implemented parcel-tracking solution.
 
 ## Demo Video
 
