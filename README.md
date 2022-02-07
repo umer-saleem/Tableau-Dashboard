@@ -7,7 +7,7 @@ The aim of creating a data-driven dashbaord is to visualize and interpret signif
 
 https://user-images.githubusercontent.com/55572784/152647150-6b2d3a2a-1601-439c-8d3a-0efaa5472e3f.mp4
 
-## Performance Evaluation Metrics
+## Performance Evaluation Metrics (Dashboard)
 
 #### 1. Monthly Parcels:
 The number represent the monthly amount of processed packages and the monthly percentage change in their amount.
